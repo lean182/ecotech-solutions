@@ -1,0 +1,14 @@
+[
+    {
+        "tipo": "PanelSolar",
+        "nombre": "EcoPanel Pro 400W",
+        "stock": 15,
+        "potencia_w": 400.0
+    },
+    {
+        "tipo": "PanelSolar",
+        "nombre": "SolarGrid Mini 200W",
+        "stock": 8,
+        "potencia_w": 200.0
+    }
+]
